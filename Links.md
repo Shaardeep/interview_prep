@@ -3,5 +3,5 @@
 ## https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 # React
-https://www.w3schools.com/REACT/DEFAULT.ASP
-https://www.geeksforgeeks.org/learn-reactjs/
+- https://www.w3schools.com/REACT/DEFAULT.ASP
+- https://www.geeksforgeeks.org/learn-reactjs/
